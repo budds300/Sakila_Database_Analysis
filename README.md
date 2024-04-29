@@ -31,6 +31,13 @@ jupyter notebook
 
 5. **Execute the Notebook**: Execute each cell in the notebook sequentially to perform the analysis.
 
+6. **.env Setup** To include a `.env` file and copy the details from `.env.example` to it, follow these steps:
+
+   1. Create a new file named `.env` in the project directory.
+    2. Open the `.env.example` file and copy its contents.
+   3. Paste the copied contents into the newly created `.env` file.
+    4. Modify the values in the `.env` file as needed, ensuring they match your local environment and configurations.
+
 ## Analysis Details
 
 The analysis is divided into several sections:
